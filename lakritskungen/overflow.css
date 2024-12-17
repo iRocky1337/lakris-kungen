@@ -1,8 +1,0 @@
-@media (min-width: 376px) and (max-width: 575px) {
-    /* css som ska finnas här kommer användas till på skärmar mellan 376px och 575px breda */
-    *{
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden;
-    }
-}
